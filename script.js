@@ -1,6 +1,5 @@
 function firstNonRepeatedChar(str) {
  // Write your code here
-	function firstNonRepeatedChar(str) {
   // Count each character
   const count = {};
 
